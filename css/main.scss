@@ -1,0 +1,22 @@
+$visual-grid: true;
+$visual-grid-color: #666;
+
+// STORE ALL PARTIALS
+@import "partials/globals";
+@import "partials/mixins";
+@import "partials/normalize";
+@import "partials/variables";
+
+// VENDOR SPECIFIC
+@import "vendor/bourbon/bourbon";
+@import "vendor/neat/neat";
+
+// LAYOUT		
+@import "layout/header";
+@import "layout/content";
+@import "layout/footer";
+
+// PAGE SPECIFIC	
+
+
+
