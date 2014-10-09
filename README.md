@@ -1,3 +1,3 @@
 #Boilerplate 
 
-(Modular SASS, Bourbon & Neat)
+Boilerplate based on HTML5 Boilerplate, Modular SASS. With Bourbon/Neat frameworks.
