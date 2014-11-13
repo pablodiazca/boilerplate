@@ -1,15 +1,16 @@
 $visual-grid: true;
 $visual-grid-color: #666;
 
+// VENDOR SPECIFIC
+@import "vendor/bourbon/bourbon";
+@import "vendor/neat/neat";
+
 // STORE ALL PARTIALS
 @import "partials/globals";
 @import "partials/mixins";
 @import "partials/normalize";
 @import "partials/variables";
 
-// VENDOR SPECIFIC
-@import "vendor/bourbon/bourbon";
-@import "vendor/neat/neat";
 
 // LAYOUT		
 @import "layout/header";
