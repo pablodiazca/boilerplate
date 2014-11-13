@@ -21,3 +21,6 @@ $visual-grid-color: #666;
 
 
 
+.container{
+  @include outer-container();
+}
